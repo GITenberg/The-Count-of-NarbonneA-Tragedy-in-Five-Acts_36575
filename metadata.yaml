@@ -1,0 +1,50 @@
+_repo: The-Count-of-NarbonneA-Tragedy-in-Five-Acts_36575
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Walpole, Horace
+    aliases:
+    - Orford, Horace Walpole, Earl of
+    - Marshall, William
+    - Walpole, Horatio
+    - Muralto, Onuphrio
+    birthdate: 1717
+    deathdate: 1797
+    gutenberg_agent_id: '358'
+    url: http://www.gutenberg.org/2009/agents/358
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
+  - agent_name: Jephson, Robert
+    aliases:
+    - Jephson, R. (Robert)
+    - Couteau, James Baptiste
+    birthdate: 1736
+    deathdate: 1803
+    gutenberg_agent_id: '38357'
+    url: http://www.gutenberg.org/2009/agents/38357
+description: Based on Walpole's "The Castle of Otranto."
+gutenberg_issued: '2011-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Drama'
+title: 'The Count of Narbonne: A Tragedy, in Five Acts'
+url: http://www.gutenberg.org/ebooks/36575
